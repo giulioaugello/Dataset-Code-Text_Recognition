@@ -1,5 +1,5 @@
 # Text Recognition
-### Files inside Project:
+### Files description:
 
 - **dataset_file_merged** contains _.zip files_ for datasets, right and left hand.
 - **generate_dataset** contains python files to generate the final dataset. Particularly:
